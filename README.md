@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLADE-SHARK
+- 👋 Hi, I’m Mhd Zaid
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Front End
 - 💞️ I’m looking to collaborate on ... HTML/CSS/Python-Django
